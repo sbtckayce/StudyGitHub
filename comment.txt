@@ -1,1 +1,11 @@
-git log : check author 
+git log : kiem tra nguoi chinh sua va thoi gian
+
+git pull : lay code tu github ve
+
+git branch  + 'name' : tao ra 1 branch
+
+git branch : kiem tra co bao nhieu branch
+
+git checkout + 'name' : di chuyen toi branch
+
+git checkout -b +'name' : tao ra di chuyen toi
