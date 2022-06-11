@@ -9,3 +9,5 @@ git branch : kiem tra co bao nhieu branch
 git checkout + 'name' : di chuyen toi branch
 
 git checkout -b +'name' : tao ra di chuyen toi
+
+git merge + 'ten branch' : gop vo main
